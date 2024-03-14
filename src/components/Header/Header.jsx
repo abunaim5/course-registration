@@ -1,6 +1,6 @@
 const Header = () => {
     return (
-        <div>
+        <div className='pt-7'>
             <h1 className='text-4xl font-bold text-center'>Course Registration</h1>
         </div>
     );
